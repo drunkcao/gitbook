@@ -1,0 +1,24 @@
+{
+  "name": "gitbook",
+  "version": "1.0.0",
+  "description": "《三国演义》",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drunkcao/gitbook.git"
+  },
+  "keywords": [],
+  "author": "drunkcao",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/drunkcao/gitbook/issues"
+  },
+  "homepage": "https://github.com/drunkcao/gitbook#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  },
+  "dependencies": {}
+}
